@@ -1,0 +1,25 @@
+{
+  "name": "jasmine-tests",
+  "version": "0.1.0",
+  "description": "Messing around with jasmine.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeromyevans/jasmine.git"
+  },
+  "author": "Jeromy Evans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeromyevans/jasmine/issues"
+  },
+  "homepage": "https://github.com/jeromyevans/jasmine",
+  "dependencies": {
+  },
+  "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-jasmine": "~0.8.2"
+
+  }
+}
